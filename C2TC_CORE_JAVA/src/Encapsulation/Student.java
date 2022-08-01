@@ -1,7 +1,8 @@
 package Encapsulation;
 
 
- public class Student{  
+ public class Student
+ {  
 //private data member  
 private String name;  
 //getter method for name  
